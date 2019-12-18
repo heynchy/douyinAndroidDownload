@@ -1,4 +1,4 @@
-package com.heynchy.douyin.videodownload;
+package com.heynchy.douyin.douyindownload;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.heynchy.douyin.videodownload", appContext.getPackageName());
+        assertEquals("com.heynchy.douyin.douyindownload.test", appContext.getPackageName());
     }
 }

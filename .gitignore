@@ -8,6 +8,6 @@
 /captures
 .externalNativeBuild
 /.idea
-*.apk
+
 *.hprof
 /comment
