@@ -10,5 +10,13 @@
    <img src="https://github.com/heynchy/douyinAndroidDownload/blob/master/ScreenShot/image_1.jpg" width="350" alt="Screenshot"/>
 </p>
 
+### 下载
+##### 1. 扫码下载，因为资源放在gitHub上，可能下载会比较慢
+<p>
+  https://github.com/heynchy/douyinAndroidDownload/blob/master/ScreenShot/1576639287.png
+</p>
+##### 2.直接下载项目中的已打好的安装包 app/videoDownload.apk
+
+
     
 
