@@ -14,7 +14,7 @@
 ##### 1. 扫码下载，因为资源放在gitHub上，可能下载会比较慢
 
 <p>
-   <img src=" https://github.com/heynchy/douyinAndroidDownload/blob/master/ScreenShot/1576639287.png" width="350" alt="Screenshot"/>
+   <img src="https://github.com/heynchy/douyinAndroidDownload/blob/master/ScreenShot/1576639287.png" width="350" alt="Screenshot"/>
 </p>
 
 ##### 2.直接下载项目中的已打好的安装包 app/videoDownload.apk
